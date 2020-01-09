@@ -1,10 +1,11 @@
 ![](https://github.com/ShivamRai2003/Setup-a-Geoserver-with-Docker/blob/master/IMAGES/GeoServer.png)
-  # Task : Setup-a-Geoserver-with-Docker
+  ## Task : Setup-a-Geoserver-with-Docker
 
 
-# Basic Descriptive Works
 
-## Why Geoserver is an important factor in a GIS stack.
+## Basic Descriptive Works
+
+### Why Geoserver is an important factor in a GIS stack.
 
 **GEOSERVER**
 
