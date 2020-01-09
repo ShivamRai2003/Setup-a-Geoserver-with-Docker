@@ -154,7 +154,8 @@ Now go to that director where .tiff file is present and use this command to move
 See Below we successfully move the file into the container. And now you can browse it and select.
 
 ![](https://github.com/ShivamRai2003/Setup-a-Geoserver-with-Docker/blob/master/IMAGES/Succesfully%20Executed.JPG)
-**Command : docker cp <File> <Container_Id>:/File**
+
+``Command : docker cp <File> <Container_Id>:/File``
 
 8.	Now Create A New Layer. Via `` Layer > Add a new layer ``
 
